@@ -1,7 +1,15 @@
 - 👋 Hi, I’m @ismail_mo
-- 👀 I’m interested in python and devop. Just starting my journey to the tech world
-- 🌱 I’m currently learning python and aws
-- 💞️ I look forward to collaborating on open source projects, pair pragramming and learn in public by sharing my journey
+- 👀 Just starting my journey In Devop
+- 🌱 I’m currently Teaching myself  
+to code python scripts
+operating system and Linux Basics
+Network and Security
+CI/CD
+Container (Docker)
+Container Orchestration(Kubernetes)
+Monitoring(Prometheus/Nagios)
+Infra as a code(Terraform/Ansible)
+Version Control (Git)
 - 📫 How to reach me yismail.mo@gmail.com
 
 <!---
