@@ -1,15 +1,15 @@
 - 👋 Hi, I’m @ismail_mo
 - 👀 Just starting my journey In Devop
 - 🌱 I’m currently Teaching myself  
-to code python scripts
-operating system and Linux Basics
-Network and Security
-CI/CD
-Container (Docker)
-Container Orchestration(Kubernetes)
-Monitoring(Prometheus/Nagios)
-Infra as a code(Terraform/Ansible)
-Version Control (Git)
+-- to code python scripts -->
+-- operating system and Linux Basics -->
+-- Network and Security -->
+--CI/CD
+--Container (Docker)
+--Container Orchestration(Kubernetes)
+--Monitoring(Prometheus/Nagios)
+--Infra as a code(Terraform/Ansible)
+--Version Control (Git)
 - 📫 How to reach me yismail.mo@gmail.com
 
 <!---
