@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ismail_mo
-- 👀 Just starting my journey In Devop
+- 👀 Excited about building stuff and learning
 - 🌱 I’m currently Teaching myself  
 -- to code python scripts -->
 -- operating system and Linux Basics -->
