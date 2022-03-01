@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ismail_mo
 - 👀 Excited about building stuff and peer learning
 - 🌱 I’m currently Teaching myself  
--- to code python scripts -->
+-- to build stuff with python -->
 -- operating system and Linux Basics -->
 -- Network and Security -->
 --CI/CD
